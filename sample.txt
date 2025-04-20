@@ -1,0 +1,1 @@
+Hi, this is simple file create go program!!
